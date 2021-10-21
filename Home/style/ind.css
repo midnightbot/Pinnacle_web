@@ -1,0 +1,54 @@
+
+#ln1 {
+    margin: 0.5%;
+}
+#ln2 {
+    margin: 0.5%;
+}
+#ln3 {
+    margin: 0.5%;
+}
+#a13 {
+    margin: 2% 2% 2% 2%;
+}
+#e12 {
+    position: fixed;
+    right: 2%;
+    
+}
+header {
+
+    background: #d123c4;
+    word-wrap: break-word;
+}
+
+.btn-group {
+    
+}
+#a12t {
+    margin: 2%;
+    padding: 0%;
+}
+#wre {
+    display: inline-block;
+}
+h1 {
+word-wrap: break-word;
+}
+@media only screen and (max-width: 767px) {
+    footer {
+        position: relative;
+        z-index: -1;
+    }
+    h1 {
+       font-size: 20px;
+    }
+    a {
+       font-size: 15px;  
+    }
+    button {
+        
+        font-size: 1em;
+    }
+ 
+ }
